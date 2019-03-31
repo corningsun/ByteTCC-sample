@@ -4,7 +4,7 @@ import com.bytesvc.provider.model.Account;
 
 public interface IAccountDao {
 
-	public Account findById(String identifier);
+	public Account findByIdentifier(String identifier);
 
 	public void insert(Account account);
 

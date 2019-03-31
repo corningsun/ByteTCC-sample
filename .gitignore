@@ -50,3 +50,9 @@ bytetcc
 /springboot-sample/sample-provider/.project
 /springboot-sample/sample-consumer/.classpath
 /springboot-sample/sample-consumer/.project
+
+\.idea/
+
+springboot-sample/\.DS_Store
+
+*.iml
